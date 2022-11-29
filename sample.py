@@ -1,0 +1,7 @@
+print (' I am Rambabu ' )
+a=10
+b=15
+c=a+b
+print(a,b,c)
+type(a)
+type(b)

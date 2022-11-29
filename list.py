@@ -1,0 +1,15 @@
+a=[10,20,23.34,'Rambabu',23,10,"ravi"]
+print(a)
+print(id(a))
+print(a[0],a[1],a[-1])
+a[0]=75
+a[-1]=43
+print(a[0],a[-1])
+print(id(a))
+print(a)
+x=10
+print(id(x))
+x=11
+print(id(x))
+x=10
+print(id(x))

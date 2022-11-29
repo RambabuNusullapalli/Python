@@ -1,0 +1,25 @@
+a=5
+b=8
+print(a+b)
+print(a-b)
+print(a*b)
+print(a**b) # a to the power b 
+print(a%b) # it gives remainder(modulus operator)
+print(a/b) 
+print(a//b) # floor operatoe it gives int value
+print(a<b)
+print(a>b)
+print(a<=b)
+print(a>=b)
+print(ord('a'))
+print(ord('b'))
+print(ord('A'))
+print(ord('B'))
+print(chr(97))
+print(chr(98))
+print(chr(65))
+print(chr(66))
+print(a==b)
+print(a!=b)
+# print(a=!b)  invalid
+print('Rambabu' == "Rambabu")
